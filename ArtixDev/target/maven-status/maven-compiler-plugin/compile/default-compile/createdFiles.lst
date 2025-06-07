@@ -1,5 +1,7 @@
 com/artixdev/generator/EndGenerator.class
 com/artixdev/generator/OverworldGenerator.class
+com/artixdev/features/MysticFeatures.class
+com/artixdev/generator/biome/ArtixOverworldBiomeProvider.class
 com/artixdev/generator/NetherGenerator.class
 com/artixdev/App.class
 com/artixdev/ArtixDev.class

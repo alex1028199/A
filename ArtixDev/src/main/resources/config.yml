@@ -13,3 +13,8 @@ worlds:
   end:
     enabled: true
     # Future parameters for The End can go here
+
+features:
+  overworld:
+    custom_biomes:
+      enabled: true
