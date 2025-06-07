@@ -1,0 +1,15 @@
+# ArtixDev Plugin Configuration
+
+# Enable custom world generation for specific worlds.
+# Set to 'false' to use vanilla generation for that world.
+worlds:
+  overworld:
+    enabled: true
+    # Future parameters for Overworld can go here
+    # example_overworld_setting: value
+  nether:
+    enabled: true
+    # Future parameters for Nether can go here
+  end:
+    enabled: true
+    # Future parameters for The End can go here
